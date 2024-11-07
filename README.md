@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Amir Mohammad!
 
-<!--
-**Reodus/Reodus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎩 **C++ Developer** | 🛡️ **Security Researcher** | ⚙️ **OS Internals Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
+I'm passionate about exploring **Operating System Internals**, with a focus on **Windows OS**. Currently, I’m dedicated to **Vulnerability Research** and **Exploit Development** within operating systems, aiming to deepen security at the system level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 My Toolbox
+- **Languages**: C++, Python, Intel x86 Assembly
+- **Domains**: OS Internals, Vulnerability Research, Exploitation
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reodus&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reodus&layout=donut&langs_count=4&theme=cobalt&hide_border=true&hide_title=true&hide=html)
+![](https://github-readme-stats.vercel.app/api?username=Reodus&theme=cobalt&show_icons=true&include&hide_border=true)
